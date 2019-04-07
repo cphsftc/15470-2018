@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/travis/ftc-base-sdk/TeamCode/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/home/travis/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/90ca88e6e9e1d866ed279cf01cba1665/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}
