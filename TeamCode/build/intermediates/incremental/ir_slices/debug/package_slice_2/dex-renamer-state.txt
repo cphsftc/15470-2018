@@ -1,4 +1,0 @@
-#Mon Jan 28 17:54:36 CST 2019
-base.0=/home/travis/ftc-base-sdk/TeamCode/build/intermediates/transforms/dexMerger/debug/20
-path.0=classes.dex
-renamed.0=classes.dex
